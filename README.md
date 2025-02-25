@@ -27,7 +27,7 @@ A machine learning-based project that predicts **calories burned** based on **ag
 ---
 
 ## **📸 Dashboard Preview**
-![Dashboard Screenshot](https://your-image-link.com](https://github.com/geosimarmata/Calories-Burned-Prediction/blob/main/Images/Dashboard%20for%20Random%20Forest.png)  
+![Dashboard Screenshot](https://github.com/geosimarmata/Calories-Burned-Prediction/blob/main/Images/Dashboard%20for%20Random%20Forest.png)  
 
 ---
 
