@@ -22,18 +22,12 @@ A machine learning-based project that predicts **calories burned** based on **ag
 | Model | MAE | R² Score |  
 |--------|--------|--------|  
 | Random Forest | 10.43 | 0.94 |  
-| XGBoost | X.XX | X.XX |  
+| XGBoost | 10.12 | 0.95 |  
 
 ---
 
 ## **📸 Dashboard Preview**
-![Dashboard Screenshot](https://your-image-link.com)  
-
----
-
-## **📂 Additional Resources**
-🔗 **Live Demo:** [Streamlit App](https://your-streamlit-link.com)  
-📜 **Dataset Source:** [Link to Dataset](https://your-dataset-link.com)  
+![Dashboard Screenshot]([https://your-image-link.com](https://github.com/geosimarmata/Calories-Burned-Prediction/blob/main/Images/Dashboard%20for%20Random%20Forest.png))  
 
 ---
 
